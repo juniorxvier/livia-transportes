@@ -2009,6 +2009,187 @@ body {
 }
 
 
+@media (min-width: 538px) and (max-width: 540px) {
+  .main-banner .header-text h6{
+    margin-left: 60px;
+    font-size: 2rem;
+  }
+
+  .main-banner .header-text h2{
+    font-size: 2rem;
+    margin-left: 80px;
+  }
+  
+  .main-banner .main-button-gradient{
+    margin-left: 80px;
+  }
+
+.main-banner .right-image img{
+  width: 580px;
+  position: relative;
+  right: 40px;
+  margin-bottom: -10px;
+}
+
+.page-heading .col-lg-12 .header-text h1{
+  color: var(--azul);
+  margin-left: 80px;
+}
+
+.page-heading .col-lg-12 .header-text h4{
+  color: var(--azul);
+  margin-left: 80px;
+}
+
+.get-info .col-lg-6 .left-image img{
+  margin-left: 90px;
+  width: 380px;
+  height: 500px;
+}
+
+.get-info .col-lg-6 #section-heading h4{
+  width: 450px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-left: -500px;
+  margin-top: 569px;
+  margin-bottom: -580px;
+}
+
+.get-info .col-lg-6 #section-heading p{
+  width: 450px;
+  font-size: 0.8rem;
+  font-weight: bolder;
+  margin-left: -535px;
+  margin-top: 629px;
+}
+
+.services{
+  margin-left: -90px;
+}
+
+.services .section-heading h4{
+  margin-left: 150px;
+  font-weight: 600;
+}
+
+.services .col-lg-12 .item{
+  margin-left: 150px;
+}
+
+.services .col-lg-12 .item p{
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.our-courses .col-lg-6 .section-heading h4{
+  font-weight: 600;
+  margin-left: 70px;
+}
+
+.our-courses .section-heading p{
+  font-weight: bolder;
+  font-size: 1rem;
+  margin-left: 60px;
+}
+
+.our-courses .container{
+  height: 1350px;
+}
+
+.col-lg-12 .naccs .col-lg-3 .menu{
+  width: 270px;
+  margin-left: 150px;
+}
+
+.col-lg-12 .naccs .menu .gradient-border span{
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+#nacc {
+  width: 500px;
+  height: 500px;
+  margin-left: 35px;
+  padding-bottom: 40px;
+}
+
+.col-lg-12 .col-lg-9 .nacc .active{
+  margin-left: 10px;
+  height: 650px;
+}
+
+.col-lg-9 .nacc .active .left-image img{
+  width: 466px;
+  height: 550px;
+  margin-top: -50px;
+  border-radius: 20px;
+  margin-bottom: 330px;
+
+}
+
+.col-lg-12 .col-lg-9 .nacc .right-content h4{
+  position: relative;
+  top: 360px;
+  right: 335px;
+  width: 450px;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.col-lg-9 .nacc .right-content p{
+  position: relative;
+  top: 350px;
+  right: 340px;
+  width: 450px;
+  font-weight: bold;
+  font-size: 0.7rem;
+  text-align: justify;
+}
+
+.simple-cta .col-lg-5 .left-image img{
+  margin-left: 54px;
+  margin-top: -100px;
+  width: 455px;
+  height: 350px;
+}
+
+
+
+.simple-cta .discount-text h4{
+  width: 480px;
+  margin-top: -10px;
+  margin-left: -20px;
+  font-size: 1.2rem;
+  color: #c4c2c2;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.486);
+}
+
+.simple-cta .discount-text p{
+  width: 300px;
+  margin-left: -30px;
+  font-size: 1rem;
+  color: #8d8b8b;
+  font-weight: bolder;
+}
+.simple-cta .container .discount-text .white-button a{
+  margin-left: 200px;
+  margin-top: -80px;
+}
+
+.testimonials .col-lg-12 .section-heading{
+  margin-left: 40px;
+}
+
+.testimonials .col-lg-12 .item{
+  width: 300px;
+  margin-left: -400px;
+}
+
+}
+
+
 @media (min-width: 414px) and (max-width: 519px) {
   .main-banner .header-text h2{
     font-size: 2rem;
