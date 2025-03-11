@@ -125,7 +125,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   margin-top: 0;
   text-transform: uppercase;
   font-weight: 700;
-  color: #333;
+  color: var(--cinza-claro);
   position: relative;
 }
 
@@ -135,7 +135,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .section-header .section-subtitle {
   margin-top: 15px;
-  color: #929191;
+  color: var(--cinza-claro);
   font-size: 14px;
   font-weight: 400;
 }
